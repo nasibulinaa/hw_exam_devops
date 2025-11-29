@@ -1,1 +1,6 @@
 /.venv
+iris_model.joblib
+/.terraform*
+/terraform.tfstate*
+/drift_report_simple.html
+__pycache__
